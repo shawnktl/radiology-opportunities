@@ -1,5 +1,65 @@
-# Knowledge Base Bootstrap
+# Radiology Opportunities
 
-Template for study/learning repos — structured notes, review tracking, spaced repetition.
+A curated, browsable list of academic, AI/informatics, research, and award/grant opportunities for radiology trainees.
 
-**Status:** Placeholder. Add files as patterns emerge from actual projects.
+> See `PROJECT_SUMMARY.md` for the full purpose and scope.
+
+## Audience
+
+Radiology residents and fellows (and the faculty who mentor them). Public-safe content only — no PII or institution-specific information.
+
+## How to Browse
+
+Opportunities are grouped by category under `categories/`:
+
+| Category | What's Inside |
+|----------|---------------|
+| [`categories/research-opportunities.md`](categories/research-opportunities.md) | Research fellowships, T32 slots, summer research programs, society research grants for trainees |
+| [`categories/ai-informatics-fellowships.md`](categories/ai-informatics-fellowships.md) | Imaging-informatics fellowships, AI/ML post-residency tracks |
+| [`categories/conferences.md`](categories/conferences.md) | RSNA, SIIM, ACR, ARRS, society annual meetings — abstract deadlines, registration, trainee discounts |
+| [`categories/awards-grants.md`](categories/awards-grants.md) | RSNA Research Resident Grant, ARRS scholar awards, society-specific trainee awards |
+| [`categories/educational-courses.md`](categories/educational-courses.md) | AI courses, statistics workshops, leadership programs |
+
+Open any category file and skim. Each entry follows the same format (see below).
+
+## Entry Format
+
+Every entry uses the template at [`templates/opportunity-entry.md`](templates/opportunity-entry.md). Fields are:
+
+- **Sponsor** — official organization
+- **Eligibility** — who can apply (PGY level, fellow status, membership)
+- **Deadline** — specific date or `(verify annually)` if uncertain
+- **Recurrence** — annual, biennial, rolling, one-time
+- **Link** — direct URL or "(see society site)"
+- **Description** — 1–2 sentences
+- **Notes** — optional tips
+
+### About Deadlines
+
+Many trainee-facing deadlines drift year to year. Where the maintainer cannot confirm the current cycle, the entry is marked **`(verify annually)`** — sometimes with a hint like "typically January." Always confirm on the sponsor's site before relying on a date.
+
+### About Eligibility
+
+Eligibility is summarized but not exhaustive. Always read the full eligibility criteria on the sponsor's page. Some awards require:
+- Society membership (RSNA, ACR, ARRS, SIIM, etc.) — often free or discounted for trainees
+- A faculty sponsor or program director letter
+- U.S. citizenship / permanent residency (for federally funded slots like T32)
+
+## How to Add an Entry
+
+1. Identify the right category file under `categories/`.
+2. Copy the entry block from [`templates/opportunity-entry.md`](templates/opportunity-entry.md).
+3. Paste it under the appropriate section in the category file.
+4. Fill in every field. If you can't verify a deadline, write `(verify annually)`.
+5. Keep entries terse — under ~8 lines each.
+6. Commit with a clear message (e.g., `add: SIIM imaging informatics fellowship to AI category`).
+
+## How to Update an Entry
+
+- Edit the entry in place.
+- If a sponsor renames a program or moves a URL, update both the title and the link.
+- If a program is discontinued, leave the entry but add a `Notes:` line: `Discontinued as of YYYY — kept for historical reference.`
+
+## Refresh Cadence
+
+See [`MAINTENANCE.md`](MAINTENANCE.md). The repo is hand-maintained; deadlines should be re-verified at least annually before the typical submission window.

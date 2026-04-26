@@ -22,6 +22,16 @@ Opportunities are grouped by category under `categories/`:
 
 Open any category file and skim. Each entry follows the same format (see below).
 
+### Browsable HTML
+
+The same content is rendered to a single accessible HTML page at `docs/index.html`. Regenerate it after editing any category file:
+
+```
+python build.py
+```
+
+The HTML view is published via GitHub Pages (Settings → Pages → Source: `main` branch, `/docs` folder). To make it accessible to trainees, either keep the repo public, or use Pages with a Pro/Team plan on a private repo. Locally, you can preview with `python -m http.server` from the `docs/` directory.
+
 ## Entry Format
 
 Every entry uses the template at [`templates/opportunity-entry.md`](templates/opportunity-entry.md). Fields are:

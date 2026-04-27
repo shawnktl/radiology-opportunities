@@ -1,14 +1,36 @@
 # Maintenance
 
-This repo is a **living document** maintained by hand. Sponsors change names, URLs move, deadlines drift, programs end. Entries are accurate at the time they were added but **should not be trusted blindly** — always verify on the sponsor's site before applying.
+This repo is a **living document** maintained by a single owner with two automation layers:
+
+1. A **weekly automated verifier** that runs the link checker and deadline checker scripts and opens a reporter PR.
+2. A **manual search-for-new dispatch** in which an LLM agent (Claude Code or similar) is invited into the repo to discover and add new opportunities, following the playbook in `prompts/refresh-agent.md`.
+
+Sponsors change names, URLs move, deadlines drift, programs end. Entries are accurate at the time they were added but **should not be trusted blindly** — always verify on the sponsor's site before applying. Every entry carries a `**Verified:**` ISO date showing when it was last reviewed.
 
 ## Refresh Cadence
 
-| Cadence | What to Do |
-|---------|------------|
-| **Annually (recommended: each summer)** | Walk every category file. For every entry, open the link and confirm the program still exists, eligibility hasn't changed, and the deadline window is current. Update or mark stale entries. |
-| **Quarterly (light pass)** | Skim category files for entries marked `(verify annually)` whose typical submission window is approaching. Confirm deadlines for those specifically. |
-| **Ad hoc** | Whenever a new opportunity is encountered (society email, mentor recommendation, conference flyer), add it immediately while details are fresh. |
+| Cadence | What | Who | How |
+|---------|------|-----|-----|
+| **Weekly (Sundays 09:00 UTC)** | Automated link verification + deadline reporting | GitHub Actions (`weekly-refresh.yml`) | Runs `scripts/verify_links.py` + `scripts/check_deadlines.py`; opens a PR with the combined report. No LLM call. |
+| **Monthly or as-needed** | Search for new opportunities | Manually dispatched LLM agent | Use `prompts/refresh-agent.md`. Cap: 10 new entries per run, 2 per category max. Each entry must have a working URL and `**Verified:**` set. |
+| **Annually (recommended: each summer)** | Full walk-through | Maintainer | Walk every category file. For every entry, open the link and confirm the program still exists, eligibility hasn't changed, and the deadline window is current. Update `**Verified:**` to today. |
+| **Quarterly (light pass)** | Verify nearing deadlines | Maintainer | Skim `urgent.md` and `categories/*.md` for entries marked `(verify annually)` whose typical submission window is approaching. |
+| **Ad hoc** | Add new entries | Maintainer | Whenever a new opportunity is encountered (society email, mentor recommendation, conference flyer), add it immediately while details are fresh. |
+
+## Local commands
+
+```
+# Verify all links (HEAD/GET, reports failures, exits 0)
+python scripts/verify_links.py
+
+# Report passed and upcoming deadlines (30 / 60 / 90 day buckets)
+python scripts/check_deadlines.py
+
+# Rebuild docs/index.html and urgent.md
+python build.py
+```
+
+`scripts/verify_links.py` is best run after `pip install -r requirements.txt`.
 
 ## Verification Checklist (per entry, during refresh)
 

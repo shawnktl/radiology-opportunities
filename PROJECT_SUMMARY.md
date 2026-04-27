@@ -29,22 +29,41 @@ A structured, browsable index of academic, AI/informatics, research, and award/g
 ## How It Is Organized
 
 ```
-categories/
+categories/                       Source of truth — one file per category
   research-opportunities.md
   ai-informatics-fellowships.md
   conferences.md
   awards-grants.md
   educational-courses.md
 templates/
-  opportunity-entry.md
-README.md           — how to browse and add entries
-MAINTENANCE.md      — manual refresh cadence
-PROJECT_SUMMARY.md  — this file
+  opportunity-entry.md            Per-entry markdown template
+build.py                          Builds docs/index.html and urgent.md
+docs/
+  index.html                      Rendered dashboard (GitHub Pages)
+  style.css                       Hand-edited stylesheet
+urgent.md                         Auto-generated 30/60/90-day digest
+scripts/
+  verify_links.py                 Link checker (HEAD/GET; reports 4xx/5xx)
+  check_deadlines.py              Deadline parser/bucketer
+prompts/
+  refresh-agent.md                Manual search-for-new playbook
+.github/workflows/
+  weekly-refresh.yml              Sunday cron: link + deadline reporter PR
+README.md                         How to browse and add entries
+MAINTENANCE.md                    Refresh cadence (weekly auto, monthly LLM)
+PROJECT_SUMMARY.md                This file
 ```
 
 ## Maintenance Philosophy
 
 This is a *living document*. Completeness matters less than **consistency** and **ease of updating**. Deadlines drift annually; sponsors rebrand. Entries marked `(verify annually)` are intentional — verify before applying. See `MAINTENANCE.md` for the refresh process.
+
+The repo deliberately separates two refresh activities:
+
+- **Verification** runs weekly via GitHub Actions and is fully automated (no LLM) — link checks plus deadline bucketing produce a reporter PR.
+- **Discovery** (search-for-new) is a manual LLM dispatch following `prompts/refresh-agent.md`, capped at 10 entries per run with 2 per category max. Each new entry must include a working URL the agent actually fetched.
+
+Splitting these two activities keeps the automated cron predictable and cheap, while letting humans control when and how aggressively new entries are added.
 
 ## Contributions
 

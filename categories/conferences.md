@@ -15,6 +15,7 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 - **Link:** https://www.rsna.org/annual-meeting
 - **Description:** The largest radiology meeting in the world. Strong emphasis on research, education, and AI in recent years. Many trainee-targeted sessions, workshops, and award ceremonies.
 - **Notes:** Trainee Travel Stipend / Roentgen Resident Research Award presentations occur here. Plan abstracts by April; case reports often have a separate (later) deadline.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -22,11 +23,12 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 
 - **Sponsor:** Society for Imaging Informatics in Medicine (SIIM)
 - **Eligibility:** Open to all; trainee membership/registration discounts available.
-- **Deadline:** (verify annually) — abstracts typically due late winter; meeting in early summer
+- **Deadline:** 2026-06-10 (SIIM26 meeting start; abstracts/early-bird registration close earlier — verify on the meeting site)
 - **Recurrence:** Annual (typically June)
-- **Link:** https://siim.org/page/annual_meeting (verify annually)
+- **Link:** https://annualmeeting.siim.org/ (SIIM26: Pittsburgh, June 10–12, 2026)
 - **Description:** The premier U.S. meeting for imaging informatics, PACS, AI deployment, and clinical workflow integration. Strong for trainees considering an informatics career.
-- **Notes:** Hackathon and machine learning challenges historically run alongside the meeting.
+- **Notes:** Hackathon and machine learning challenges historically run alongside the meeting. Confirm abstract and early-bird deadlines on https://annualmeeting.siim.org/important-dates/.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -34,11 +36,12 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 
 - **Sponsor:** American Roentgen Ray Society (ARRS)
 - **Eligibility:** Open to all; ARRS membership offers reduced registration.
-- **Deadline:** (verify annually) — abstracts typically due in fall the year before; meeting in spring
+- **Deadline:** ARRS 2026 meeting was April 12–15, 2026 (now passed; on-demand content available to registrants through April 15, 2027). Next cycle: ARRS 2027 — abstracts typically due fall 2026.
 - **Recurrence:** Annual (typically April–May)
-- **Link:** https://www.arrs.org/AM
+- **Link:** https://www2.arrs.org/am26/ (ARRS 2026 site, on-demand) and https://www.arrs.org/ for the society home and future meeting info
 - **Description:** Long-standing general radiology meeting with strong educational programming. ARRS publishes the *American Journal of Roentgenology* (AJR).
-- **Notes:** ARRS sponsors trainee awards (see awards-grants.md). Excellent venue for first abstracts.
+- **Notes:** ARRS sponsors trainee awards (see awards-grants.md). Excellent venue for first abstracts. Watch arrs.org/meetings for the ARRS 2027 site as it publishes.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -46,11 +49,12 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 
 - **Sponsor:** American College of Radiology (ACR)
 - **Eligibility:** Open to ACR members and guests; trainees welcome. Resident/fellow tracks and Resident & Fellow Section (RFS) programming.
-- **Deadline:** (verify annually) — meeting held in spring (typically May), in Washington, D.C.; abstracts/applications for specific awards earlier
+- **Deadline:** 2026-05-02 (ACR 2026 meeting start; standard registration deadline was 2026-04-02 — late registration available with surcharge)
 - **Recurrence:** Annual
-- **Link:** https://www.acr.org/Member-Resources/rfs and https://www.acr.org/Annual-Meeting
+- **Link:** https://www.acr.org/Education-and-CME/Calendar/Annual-Meeting (ACR 2026: Washington, DC, May 2–6, 2026)
 - **Description:** Policy- and advocacy-focused meeting in Washington, D.C., including Capitol Hill visits and the ACR Resident & Fellow Section meeting. Strong for trainees interested in healthcare policy.
-- **Notes:** Excellent leadership-track conference. The ACR's RFS hosts elections and engagement opportunities at this meeting.
+- **Notes:** Excellent leadership-track conference. The ACR's RFS hosts elections and engagement opportunities at this meeting. Capitol Hill Day on May 6, 2026.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -63,6 +67,7 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 - **Link:** https://www.asnr.org
 - **Description:** Premier neuroradiology meeting. Multiple trainee research awards announced at the meeting. Strong fit for residents pursuing a neuroradiology fellowship.
 - **Notes:** Several subspecialty societies (ASFNR, ASHNR, ASPNR, ASSR) co-meet with ASNR — broad subspecialty programming in one trip.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -75,6 +80,7 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 - **Link:** https://abdominalradiology.org
 - **Description:** Body/abdominal imaging meeting with strong educational and research programming. Sponsors trainee research awards.
 - **Notes:** SAR offers disease-focused interest groups (DFDIs) — useful networking for residents narrowing their fellowship focus.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -87,6 +93,7 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 - **Link:** https://www.sirweb.org
 - **Description:** The major U.S. interventional radiology meeting. Critical for IR trainees and residents considering IR.
 - **Notes:** SIR Foundation also runs research grants for trainees — see awards-grants.md.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -99,6 +106,7 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 - **Link:** https://www.sbi-online.org
 - **Description:** Premier U.S. breast imaging meeting. Trainee-friendly with focused educational programming.
 - **Notes:** Useful for fellowship-bound residents considering breast imaging.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -111,6 +119,7 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 - **Link:** https://miccai.org
 - **Description:** Top international venue for medical image computing and AI/ML in medical imaging. Strong fit for radiology trainees with computational research projects.
 - **Notes:** Peer-reviewed conference proceedings — counts as a publication. Heavy CS/engineering audience; clinical-quality contributions welcome.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -123,3 +132,30 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 - **Link:** https://spie.org/conferences-and-exhibitions/medical-imaging
 - **Description:** Long-standing meeting at the intersection of medical imaging physics, AI/ML, and image reconstruction. Strong physics/engineering audience.
 - **Notes:** Useful for radiology trainees with imaging-physics or computational imaging research.
+- **Verified:** 2026-04-27
+
+---
+
+### ISMRM & ISMRT Annual Meeting
+
+- **Sponsor:** International Society for Magnetic Resonance in Medicine (ISMRM) and International Society for MR Radiographers & Technologists (ISMRT)
+- **Eligibility:** Open to all; student/trainee registration tiers and travel stipends available. ISMRM membership recommended.
+- **Deadline:** 2026-05-09 (ISMRM 2026 meeting start; abstract submission deadline for 2026 has already closed — see the 2027 site for the next cycle when published)
+- **Recurrence:** Annual (typically May)
+- **Link:** https://www.ismrm.org/26m/ (ISMRM 2026: Cape Town, May 9-14, 2026) and https://www.ismrm.org/ for the society home
+- **Description:** Premier global meeting for magnetic resonance research and clinical applications. Strong MR-physics, AI/ML, and clinical-translation programming. 38 study groups (cardiac MR, low-field MRI, AI/ML, etc.) host deep-dive sessions.
+- **Notes:** Excellent venue for trainees with MR-focused research. Global audience and strong representation of imaging-physics work.
+- **Verified:** 2026-04-27
+
+---
+
+### AAR / AUR Annual Meeting (Association for Academic Radiology)
+
+- **Sponsor:** Association for Academic Radiology (AAR, formerly AUR — Association of University Radiologists)
+- **Eligibility:** Open to academic radiology faculty, residents, and fellows. Coordinated with affiliated organizations including A3CR2, ACER, AMSER, RAHSR, RRA, APCR, APDIR, APDR, and SCARD.
+- **Deadline:** AAR 2026 meeting was March 17-20, 2026 (now passed). Watch https://www.aur.org/future-meetings for the 2027 cycle.
+- **Recurrence:** Annual (typically March)
+- **Link:** https://www.aur.org/annual-meeting and https://www.aur.org/future-meetings
+- **Description:** The flagship academic radiology meeting, focused on radiology medical education, departmental leadership, and the academic mission. Strong fit for trainees considering academic careers, program-director tracks, or radiology-educator roles.
+- **Notes:** AAR co-meets with multiple educator and program-director organizations — high density of academic-career networking in one trip. The Radiology Educator Development Program runs in parallel.
+- **Verified:** 2026-04-27

@@ -107,3 +107,16 @@ Post-residency fellowships and tracks focused on AI, machine learning, and imagi
 - **Description:** Industry-funded research fellowships embedded in academic radiology departments. Structures vary widely from full clinical fellowships to part-time research collaborations.
 - **Notes:** Aggregate placeholder — these programs change frequently. Update with named programs as the maintainer confirms current sponsors.
 - **Verified:** 2026-04-27
+
+---
+
+### ACR Informatics Fellowship (Data Science Institute)
+
+- **Sponsor:** American College of Radiology (ACR) Data Science Institute
+- **Eligibility:** Fourth-year residents (R4 / PGY-5) and early-career professionals up to five years out of residency. Must be ACR-membership-eligible. Online application, CV, and one letter of recommendation required.
+- **Deadline:** (verify annually) — 2026 cycle closed; selection committee notifies candidates by mid-February. Watch for the next cycle to open in late 2026.
+- **Recurrence:** Annual
+- **Link:** https://www.acr.org/Membership/Fellowships-and-Grants/informatics
+- **Description:** Hands-on informatics fellowship pairing a trainee with the ACR Data Science Institute leadership for one-on-one mentoring and structured informatics projects. Includes attendance at ACR Annual Meetings, the SIIM-ACR Data Science Summit, and a pilot site experience week — travel and living expenses covered by ACR.
+- **Notes:** Distinct from ACGME-accredited Clinical Informatics fellowships. A focused complement to research-year work or a launching pad for early-career informatics leadership roles.
+- **Verified:** 2026-04-27

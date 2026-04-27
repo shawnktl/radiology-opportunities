@@ -146,3 +146,29 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Description:** Repays a portion of qualified educational debt in exchange for a research commitment. Several LRP subcategories (clinical, pediatric, health disparities, etc.).
 - **Notes:** Highly leverageable benefit for research-track trainees with educational debt. Renewal cycles available.
 - **Verified:** 2026-04-27
+
+---
+
+### ASNR Foundation Trainee Research Grant in Neuroradiology
+
+- **Sponsor:** The Foundation of the American Society of Neuroradiology (ASNR Foundation)
+- **Eligibility:** Trainees (residents and fellows) committed to a career in neuroradiology. ASNR membership required (trainee tier available).
+- **Deadline:** (verify annually) — 2025 cycle deadline has passed; watch foundation.asnr.org for the next cycle's open date
+- **Recurrence:** Annual
+- **Link:** https://foundation.asnr.org/grants-awards/trainee-research-grant-in-neuroradiology/ and https://foundation.asnr.org/grants-awards/
+- **Description:** Mentored research grant supporting a trainee's neuroradiology research project. Funds may cover biostatistics, software, cloud computing, or other research costs to supplement institutional support.
+- **Notes:** Distinct from the more general "ASNR Trainee Research Awards" presented at the Annual Meeting — this is a project-cost grant. The Foundation maintains a unified grants page at foundation.asnr.org/grants-awards/ listing all current and sunset programs.
+- **Verified:** 2026-04-27
+
+---
+
+### RSNA Derek Harwood-Nash International Education Scholar Grant
+
+- **Sponsor:** RSNA Research & Education Foundation
+- **Eligibility:** RSNA members (membership free for trainees). Open to investigators advancing radiologic education with an international scope, including curriculum development and training initiatives in emerging-economy regions.
+- **Deadline:** (verify annually) — 2026-27 cycle closed; next cycle opens October 2026 (typical January application deadline)
+- **Recurrence:** Annual
+- **Link:** https://www.rsna.org/research/funding-opportunities/education-grants/derek-harwood-nash-international-scholar-grant
+- **Description:** One-year education-focused grant of up to $75,000 supporting projects that advance radiologic education internationally. Projects can include curriculum development, hands-on teaching, and trainee education in under-resourced settings.
+- **Notes:** Excellent fit for trainees and early-career faculty with global-health or radiology-education interests. Aligns with RSNA's 2026 priority focus areas (precision medicine theranostics, imaging in vulnerable populations, etc.).
+- **Verified:** 2026-04-27

@@ -133,3 +133,29 @@ Major radiology and imaging-informatics conferences. Includes abstract deadlines
 - **Description:** Long-standing meeting at the intersection of medical imaging physics, AI/ML, and image reconstruction. Strong physics/engineering audience.
 - **Notes:** Useful for radiology trainees with imaging-physics or computational imaging research.
 - **Verified:** 2026-04-27
+
+---
+
+### ISMRM & ISMRT Annual Meeting
+
+- **Sponsor:** International Society for Magnetic Resonance in Medicine (ISMRM) and International Society for MR Radiographers & Technologists (ISMRT)
+- **Eligibility:** Open to all; student/trainee registration tiers and travel stipends available. ISMRM membership recommended.
+- **Deadline:** 2026-05-09 (ISMRM 2026 meeting start; abstract submission deadline for 2026 has already closed — see the 2027 site for the next cycle when published)
+- **Recurrence:** Annual (typically May)
+- **Link:** https://www.ismrm.org/26m/ (ISMRM 2026: Cape Town, May 9-14, 2026) and https://www.ismrm.org/ for the society home
+- **Description:** Premier global meeting for magnetic resonance research and clinical applications. Strong MR-physics, AI/ML, and clinical-translation programming. 38 study groups (cardiac MR, low-field MRI, AI/ML, etc.) host deep-dive sessions.
+- **Notes:** Excellent venue for trainees with MR-focused research. Global audience and strong representation of imaging-physics work.
+- **Verified:** 2026-04-27
+
+---
+
+### AAR / AUR Annual Meeting (Association for Academic Radiology)
+
+- **Sponsor:** Association for Academic Radiology (AAR, formerly AUR — Association of University Radiologists)
+- **Eligibility:** Open to academic radiology faculty, residents, and fellows. Coordinated with affiliated organizations including A3CR2, ACER, AMSER, RAHSR, RRA, APCR, APDIR, APDR, and SCARD.
+- **Deadline:** AAR 2026 meeting was March 17-20, 2026 (now passed). Watch https://www.aur.org/future-meetings for the 2027 cycle.
+- **Recurrence:** Annual (typically March)
+- **Link:** https://www.aur.org/annual-meeting and https://www.aur.org/future-meetings
+- **Description:** The flagship academic radiology meeting, focused on radiology medical education, departmental leadership, and the academic mission. Strong fit for trainees considering academic careers, program-director tracks, or radiology-educator roles.
+- **Notes:** AAR co-meets with multiple educator and program-director organizations — high density of academic-career networking in one trip. The Radiology Educator Development Program runs in parallel.
+- **Verified:** 2026-04-27

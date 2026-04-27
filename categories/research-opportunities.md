@@ -120,3 +120,16 @@ Research fellowships, T32 slots, summer research programs, and society-sponsored
 - **Description:** Many subspecialty societies sponsor short summer or semester-long research scholarships for trainees aligned with their subspecialty. A useful pathway for residents narrowing their fellowship focus.
 - **Notes:** Aggregate placeholder — split into specific entries as the maintainer confirms current programs from individual societies.
 - **Verified:** 2026-04-27
+
+---
+
+### NLM University-Based Biomedical Informatics & Data Science Research Training Program (T15)
+
+- **Sponsor:** National Library of Medicine (NLM), NIH
+- **Eligibility:** Predoctoral and postdoctoral trainees at participating NLM-funded T15 host institutions (Stanford, Harvard, UNC, UCSD, Univ. of Washington, Yale, Univ. of Wisconsin-Madison, Univ. of Utah, Rice, and others). Postdoctoral slots open to physicians; institutional eligibility rules apply.
+- **Deadline:** (verify annually) — institution-specific application timelines, typically aligned with academic-year start
+- **Recurrence:** Annual at participating institutions
+- **Link:** https://www.nlm.nih.gov/ep/GrantTrainInstitute.html and https://www.nlm.nih.gov/ep/AwardsTrainInstitute.html
+- **Description:** Federally funded T15 training awards supporting research training in biomedical informatics, data science, clinical informatics, and translational bioinformatics. NLM-supported T15 programs train ~170 graduate and postdoctoral trainees annually nationwide.
+- **Notes:** Strong fit for radiology trainees pursuing imaging-AI / clinical informatics research careers, especially those considering an ACGME Clinical Informatics fellowship afterward. Apply to a specific host institution's T15 program — NLM does not run a centralized application.
+- **Verified:** 2026-04-27

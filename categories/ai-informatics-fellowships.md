@@ -15,6 +15,7 @@ Post-residency fellowships and tracks focused on AI, machine learning, and imagi
 - **Link:** https://siim.org (SIIM maintains a fellowship listing — verify current URL)
 - **Description:** One- or two-year fellowships training radiologists in PACS architecture, DICOM workflows, AI/ML deployment, and clinical informatics. Often combined with clinical subspecialty time.
 - **Notes:** Some programs offer combined imaging informatics + subspecialty fellowships (e.g., body + informatics, neuro + informatics). Funding mechanisms vary.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -27,6 +28,7 @@ Post-residency fellowships and tracks focused on AI, machine learning, and imagi
 - **Link:** https://www.acgme.org (search Clinical Informatics) and https://www.theabpm.org
 - **Description:** ACGME-accredited subspecialty fellowship leading to Clinical Informatics board certification. Increasingly chosen by radiologists interested in enterprise IT, AI deployment, and informatics leadership roles.
 - **Notes:** Distinct from Imaging Informatics fellowships, which are typically not ACGME-accredited. Clinical Informatics is the formal subspecialty board.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -36,9 +38,10 @@ Post-residency fellowships and tracks focused on AI, machine learning, and imagi
 - **Eligibility:** Diagnostic radiology residency graduates; programming/research experience preferred. Specific eligibility on department site.
 - **Deadline:** (verify annually)
 - **Recurrence:** Annual
-- **Link:** https://www.massgeneral.org/radiology (verify path annually) — also see Brigham & Women's Radiology
+- **Link:** https://www.massgeneral.org/imaging/education/fellowships and https://radedu.massgeneral.org/ (Mass General Imaging fellowship hub)
 - **Description:** Post-residency fellowship combining clinical radiology with AI/ML research and translational deployment. Listed as a representative example; many top departments now offer similar tracks.
 - **Notes:** Listed as a representative AI fellowship — confirm current program structure annually.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -51,6 +54,7 @@ Post-residency fellowships and tracks focused on AI, machine learning, and imagi
 - **Link:** https://aimi.stanford.edu and https://med.stanford.edu/radiology
 - **Description:** Research and clinical fellowships at one of the leading academic AI-in-imaging centers. Strong dataset access (e.g., AIMI shared datasets) and active model development.
 - **Notes:** Listed as a representative AI fellowship; verify current program offerings each cycle.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -63,6 +67,7 @@ Post-residency fellowships and tracks focused on AI, machine learning, and imagi
 - **Link:** https://clinicalcenter.nih.gov (verify program path annually)
 - **Description:** NIH-affiliated research training pathways with informatics-focused tracks. Useful for trainees who want NIH research exposure with a computational emphasis.
 - **Notes:** Less radiology-specific than other entries, but a viable pathway for radiology trainees committed to imaging-AI research.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -75,6 +80,7 @@ Post-residency fellowships and tracks focused on AI, machine learning, and imagi
 - **Link:** https://www.nibib.nih.gov
 - **Description:** Federally funded training mechanisms supporting computational imaging, image reconstruction, and AI/ML research training. Often embedded in a host institution's broader T32 or training infrastructure.
 - **Notes:** Pathway for trainees with strong CS/engineering background pursuing imaging-AI research careers.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -87,6 +93,7 @@ Post-residency fellowships and tracks focused on AI, machine learning, and imagi
 - **Link:** https://siim.org
 - **Description:** Educational track preparing candidates for the Certified Imaging Informatics Professional (CIIP) credential. Also provides a directory of imaging informatics fellowships nationally.
 - **Notes:** CIIP is a non-physician credential but the educational track is useful background for trainees pursuing informatics fellowships.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -99,3 +106,4 @@ Post-residency fellowships and tracks focused on AI, machine learning, and imagi
 - **Link:** (see sponsor research/academic partnership pages)
 - **Description:** Industry-funded research fellowships embedded in academic radiology departments. Structures vary widely from full clinical fellowships to part-time research collaborations.
 - **Notes:** Aggregate placeholder — these programs change frequently. Update with named programs as the maintainer confirms current sponsors.
+- **Verified:** 2026-04-27

@@ -15,6 +15,7 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://www.rsna.org/research/funding-opportunities (verify path annually)
 - **Description:** One-year research grant supporting protected research time and project costs for a resident's mentored research project.
 - **Notes:** Cross-listed in research-opportunities.md. One of the flagship trainee research grants in radiology.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -27,6 +28,7 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://www.rsna.org/research/funding-opportunities (verify annually)
 - **Description:** Fellow-targeted research grant — analog to the Research Resident Grant but at the fellowship stage.
 - **Notes:** Allows fellows to extend or formalize a research project from residency into the fellowship year.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -39,6 +41,7 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://www.rsna.org (verify annually)
 - **Description:** Recognition award for trainees presenting outstanding research at RSNA. Often cited on academic CVs.
 - **Notes:** No separate application — recognition is based on the standard RSNA abstract submission.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -51,6 +54,7 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://www.arrs.org
 - **Description:** Recognition and travel/scholarship support for trainees with outstanding research presented at the ARRS Annual Meeting.
 - **Notes:** Specific award names and structures vary year to year; check current cycle. ARRS also offers Scholar Awards for early-career faculty (not trainees).
+- **Verified:** 2026-04-27
 
 ---
 
@@ -60,9 +64,10 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Eligibility:** Diagnostic or interventional radiology residents pursuing a project in interventional radiology
 - **Deadline:** (verify annually)
 - **Recurrence:** Annual
-- **Link:** https://www.sirweb.org/sir-foundation
+- **Link:** https://www.sirweb.org/about-sir/awards-grants-and-funding/
 - **Description:** Mentored research grant supporting a resident's IR-focused research project. SIR Foundation also funds Pilot Awards and Allied Scientist Grants — verify which mechanism fits.
 - **Notes:** Specific grant names and eligibility shift periodically. Check the Foundation's full grant menu each cycle.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -75,6 +80,7 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://www.asnr.org
 - **Description:** Family of trainee research awards (specific names vary — Comparative Effectiveness, Boerger Award, Outstanding Trainee Research, etc.). Recognizes high-quality neuroradiology research presented at ASNR.
 - **Notes:** Specific award names change; review the ASNR awards page each year for current options.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -87,6 +93,7 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://abdominalradiology.org
 - **Description:** Recognition awards for outstanding trainee abstracts presented at SAR. Multiple disease-focused tracks (HCC, pancreas, IBD, etc.) often offer separate trainee awards.
 - **Notes:** Disease-focused interest groups within SAR also sponsor focused awards — check both the main awards page and DFDI pages.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -99,6 +106,7 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://www.sbi-online.org
 - **Description:** Recognition awards for top-rated trainee research at the annual breast imaging symposium.
 - **Notes:** Useful target for residents considering breast imaging fellowships.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -111,6 +119,7 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://www.acr.org/Advocacy-and-Economics (verify path annually)
 - **Description:** A 4-week fellowship in Washington, D.C., embedded with the ACR Government Relations team. Focused on policy, advocacy, and the legislative process.
 - **Notes:** Prestigious leadership/policy opportunity. Strong fit for trainees with policy interest.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -123,6 +132,7 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://www.theabr.org (search "Holman")
 - **Description:** Alternative ABR certification pathway substituting protected research time for a portion of clinical training. Designed for future physician-scientists.
 - **Notes:** Not a grant per se — a structural pathway. Listed here because it functions as a career-defining award/track. Requires program director and chair endorsement.
+- **Verified:** 2026-04-27
 
 ---
 
@@ -135,3 +145,4 @@ Awards and grants targeted at radiology trainees (residents, fellows, and select
 - **Link:** https://www.lrp.nih.gov
 - **Description:** Repays a portion of qualified educational debt in exchange for a research commitment. Several LRP subcategories (clinical, pediatric, health disparities, etc.).
 - **Notes:** Highly leverageable benefit for research-track trainees with educational debt. Renewal cycles available.
+- **Verified:** 2026-04-27
